@@ -1,0 +1,10 @@
+mdshare==0.4.1
+matplotlib==3.4.2
+numpy==1.18.5
+mdtraj==1.9.5
+ipywidgets==7.6.3
+nglview==3.0.1
+pyEMMA==2.5.9
+Bio==0.5.0
+ipython==7.24.1
+
